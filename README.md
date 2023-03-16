@@ -13,7 +13,7 @@ Habit creation project to help you in everyday life.
 2. `npm install` to install project dependencies
 3. to run the frontend, go to vscode's built-in terminal and run `npm start`, it will take you to a page where to render the backend you have to open a separate terminal in CMD enter the backend folder and run `npm run dev`.
  
- <p>Project developed with the intention of helping people who need an incentive or something to write down what they need to do in a certain time or with a certain priority, with our functionality you can choose if you prefer to develop something.</p>
+ <p>Project developed with the intention of helping people who need an incentive or something to write down what they need to do in a certain time or with a certain priority, with our functionality you can choose whether you prefer to develop something with a priority or not. </p>
 
 <p>The following technologies were used: React, axios, cors, express, mongoose and other technologies. </p>
   
